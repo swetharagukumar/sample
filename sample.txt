@@ -2,6 +2,8 @@
 #include<conio.h>
 void main()
 {
+   int a=5;
    cout<<"Hello mam";
    cout<<"glad to see you";
+   cout<<"value="<<a;
 }
